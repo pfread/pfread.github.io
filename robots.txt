@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pfread.com/sitemap.xml

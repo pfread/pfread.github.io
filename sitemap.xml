@@ -1,0 +1,53 @@
+<?xml-stylesheet type="text/xsl" href="https://pfread.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://pfread.com/tags/about/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/categories/about/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/categories/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/post/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/tags/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pfread.com/post/about-me/</loc>
+    <lastmod>2020-05-18T10:59:22+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

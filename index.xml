@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PF笔记</title>
+    <link>https://pfread.com/</link>
+    <description>Recent content on PF笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 May 2020 10:59:22 +0800</lastBuildDate>
+    
+	<atom:link href="https://pfread.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最开始的幻想</title>
+      <link>https://pfread.com/post/about-me/</link>
+      <pubDate>Mon, 18 May 2020 10:59:22 +0800</pubDate>
+      
+      <guid>https://pfread.com/post/about-me/</guid>
+      <description>最开始的幻想</description>
+    </item>
+    
+  </channel>
+</rss>
